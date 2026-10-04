@@ -14,7 +14,7 @@ cd назва-проєкту
 ## Використання
 Для запуску головного скрипта програми використайте команду:
 
-python tracker.py add "LabRob3"
+python tracker.py add "PractRob3"
 
 ## Таблиця
 
