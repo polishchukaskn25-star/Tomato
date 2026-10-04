@@ -33,3 +33,4 @@ python tracker.py add "LabRob3"
 
 ## Автори
 Я
+Пошта: polishchuk.a.s_kn25@rcit.ukr.education
