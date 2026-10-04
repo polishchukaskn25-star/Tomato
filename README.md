@@ -26,7 +26,7 @@ python tracker.py add "LabRob3"
 
 ## Зображення
 
-![Скріншот](screenshots/labrob3.jpg)
+![Скріншот](labrob3.jpg)
 
 ## Ліцензія
 Цей проєкт поширюється під ліцензією MIT. Детальнішу інформацію дивіться у файлі [LICENSE](LICENSE)
